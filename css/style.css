@@ -4,9 +4,9 @@
 
 .container {
   width: auto;
-  max-width: 300px;
-  padding: 0 15px;
-    background:red;
+  max-width: 800px;
+  padding:  100px;
+    background:green;
 }
 
 .footer {
